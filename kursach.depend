@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612691864 source:d:\documents\iasa ka-01\Прога\Курсова\kursach\main.cpp
+	<iostream>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
